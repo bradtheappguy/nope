@@ -1,0 +1,7 @@
+This is a simple proof of concept iOS App that uses C code with the objective-C runtime, without and objective-c.
+
+Note the only implementation file in the project is main.c.  There are no .m files!
+
+Using the runtime C functions, I demonstrate class creation, method adding, class initilization, and message passing.
+
+~Brad
